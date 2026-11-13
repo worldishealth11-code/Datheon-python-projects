@@ -81,7 +81,7 @@ How to Run the Projects
 
 1. Clone this repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone (https://github.com/worldishealth11-code/Datheon-python-projects.git)
 
 2. Open the project folder in Visual Studio Code.
 
