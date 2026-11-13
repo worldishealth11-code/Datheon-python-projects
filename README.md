@@ -110,7 +110,7 @@ Through these projects, I have developed practical experience in:
 
 Author
 
-Python Programming Student
+Winstill Akoh Sani
 
 GitHub: https://github.com/worldishealth11-code
 
